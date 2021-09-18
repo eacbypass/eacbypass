@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EACBypass</h1>
-<h3 align="center">Superior EAC Bypass Creator</h3>
+<h3 align="center">Superior EAC Bypass Developer</h3>
 
 
 - 👋 Hi, I’m @eacbypass
